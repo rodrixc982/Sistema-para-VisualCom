@@ -1,0 +1,9 @@
+usuario : manajemen
+             Cristian
+
+clave: tianz982
+         manajemen123
+
+
+admin
+tianz982
